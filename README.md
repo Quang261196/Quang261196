@@ -1,114 +1,114 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #-------------------VTV-------------------#
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 4Mbps)
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 4Mbps)
 udp://@225.1.4.1:30120
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 4Mbps)
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 4Mbps)
 udp://@225.1.4.2:30120
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 4Mbps)
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 4Mbps)
 udp://@225.1.4.3:30120
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 4Mbps)
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 4Mbps)
 udp://@225.1.4.4:30120
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
 udp://@225.1.4.5:30120
 #EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 4Mbps)
 udp://@225.1.4.6:30120
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 4Mbps)
+#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 4Mbps)
 udp://@225.1.4.108:30120
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 4Mbps)
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 4Mbps)
 udp://@225.1.4.201:30120
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 4Mbps)
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 4Mbps)
 udp://@225.1.4.7:30120
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 4Mbps)
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 4Mbps)
 udp://@225.1.4.8:30120
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 4Mbps)
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 4Mbps)
 udp://@225.1.4.184:30120
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 4Mbps)
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 4Mbps)
 udp://@225.1.4.179:30120
 #-------------------HTV-------------------#
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/HTV1.png",HTV1
+#EXTINF:0 tvg-id="htv1" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/HTV1.png",HTV1
 udp://@225.1.4.55:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 4Mbps)
+#EXTINF:0 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 4Mbps)
 udp://@225.1.4.56:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://logos.fandom.com/vi/wiki/HTV3?file=HTV3_31-12-2024.png",HTV3
+#EXTINF:0 tvg-id="htv3" group-title="HTV" tvg-logo="https://logos.fandom.com/vi/wiki/HTV3?file=HTV3_31-12-2024.png",HTV3
 udp://@225.1.4.57:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD (HD 4Mbps)
+#EXTINF:0 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD (HD 4Mbps)
 udp://@225.1.4.59:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD (HD 4Mbps)
+#EXTINF:0 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD (HD 4Mbps)
 udp://@225.1.4.11:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO (HD 4Mbps)
+#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO (HD 4Mbps)
 udp://@225.1.4.60:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống (HD 4Mbps)
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống (HD 4Mbps)
 udp://@225.1.4.67:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc (HD 4Mbps)
+#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc (HD 4Mbps)
 udp://@225.1.4.223:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình (HD 4Mbps)
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình (HD 4Mbps)
 udp://@225.1.4.64:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 4Mbps)
+#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 4Mbps)
 udp://@225.1.4.63:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ (HD 4Mbps)
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ (HD 4Mbps)
 udp://@225.1.4.66:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt (HD 4Mbps)
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt (HD 4Mbps)
 udp://@225.1.4.62:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 4Mbps)
+#EXTINF:0 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 4Mbps)
 udp://@225.1.4.91:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png",HTV Keys
+#EXTINF:0 tvg-id="htvkey" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png",HTV Keys
 udp://@225.1.4.58:30120
 #-------------------Quốc tế-------------------#
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA (HD 4Mbps)
+#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA (HD 4Mbps)
 udp://@225.1.4.19:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 4Mbps)
+#EXTINF:0 tvg-id="animalhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 4Mbps)
 udp://@225.1.4.209:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 4Mbps)
+#EXTINF:0 tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 4Mbps)
 udp://@225.1.4.36:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 4Mbps)
+#EXTINF:0 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 4Mbps)
 udp://@225.1.4.9:30120
 #EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies (HD 4Mbps)
 udp://@225.1.4.29:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 4Mbps)
+#EXTINF:0 tvg-id="bbcearth" group-title="Quốc tế" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 4Mbps)
 udp://@225.1.4.21:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 4Mbps)
+#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc tế" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 4Mbps)
 udp://@225.1.4.23:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 4Mbps)
+#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 4Mbps)
 udp://@225.1.4.22:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/rxFZgIK.png",BLOOMBERG (HD 4Mbps)
+#EXTINF:0 tvg-id="bloomberg" group-title="Quốc tế" tvg-logo="https://i.imgur.com/rxFZgIK.png",BLOOMBERG (HD 4Mbps)
 udp://@225.1.4.18:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/rRDAzm4.png",Boomerang (HD 4Mbps)
+#EXTINF:0 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/rRDAzm4.png",Boomerang (HD 4Mbps)
 udp://@225.1.4.16:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK (HD 4Mbps)
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK (HD 4Mbps)
 udp://@225.1.4.13:30120
 #EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 4Mbps)
 udp://@225.1.4.76:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 4Mbps)
+#EXTINF:0 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 4Mbps)
 udp://@225.1.4.17:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 4Mbps)
+#EXTINF:0 tvg-id="davinci" group-title="Quốc tế" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 4Mbps)
 udp://@225.1.4.208:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 4Mbps)
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 4Mbps)
 udp://@225.1.4.25:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 4Mbps)
+#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 4Mbps)
 udp://@225.1.4.24:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 4Mbps)
+#EXTINF:0 tvg-id="dreamworks" group-title="Quốc tế" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 4Mbps)
 udp://@225.1.4.39:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 4Mbps)
+#EXTINF:0 tvg-id="dw" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 4Mbps)
 udp://@225.1.4.75:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV (HD 4Mbps)
+#EXTINF:0 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV (HD 4Mbps)
 udp://@225.1.4.20:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/YF2zMTz.png",FRANCE 24 (HD 4Mbps)
+#EXTINF:0 tvg-id="france24eng" group-title="Quốc tế" tvg-logo="https://i.imgur.com/YF2zMTz.png",FRANCE 24 (HD 4Mbps)
 udp://@225.1.4.212:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
 udp://@225.1.4.90:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
 udp://@225.1.4.183:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD (HD 4Mbps)
+#EXTINF:0 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD (HD 4Mbps)
 udp://@225.1.4.214:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN (HD 4Mbps)
+#EXTINF:0 tvg-id="nhkworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN (HD 4Mbps)
 udp://@225.1.4.73:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 4Mbps)
+#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 4Mbps)
 udp://@225.1.4.210:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 4Mbps)
+#EXTINF:0 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 4Mbps)
 udp://@225.1.4.26:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE (HD 4Mbps)
+#EXTINF:0 tvg-id="tv5mode" group-title="Quốc tế" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE (HD 4Mbps)
 udp://@225.1.4.213:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV HD (HD 4Mbps)
+#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV HD (HD 4Mbps)
 udp://@225.1.4.14:30120
 #-------------------FPT Play-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD

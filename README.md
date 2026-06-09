@@ -10,20 +10,22 @@ udp://@225.1.4.3:30120
 udp://@225.1.4.4:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
 udp://@225.1.4.5:30120
-#EXTINF:0 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV10 (HD 4Mbps)
-udp://@225.1.4.6:30120
-#EXTINF:0 tvg-id="vtv10hd" group-title="VTV10" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 4Mbps)
-udp://@225.1.4.108:30120
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 4Mbps)
+udp://@225.1.4.184:30120
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 4Mbps)
+udp://@225.1.4.179:30120
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/1280px-VTV6_logo_2026_final.svg.png",VTV6 (HD 8Mbps)
+udp://@225.1.2.154:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 4Mbps)
 udp://@225.1.4.201:30120
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 4Mbps)
 udp://@225.1.4.7:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 4Mbps)
 udp://@225.1.4.8:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 4Mbps)
-udp://@225.1.4.184:30120
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 4Mbps)
-udp://@225.1.4.179:30120
+#EXTINF:0 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/VTV10_logo_2026.png",VTV10 (HD 4Mbps)
+udp://@225.1.4.6:30120
+#EXTINF:0 tvg-id="vtv10hd" group-title="VTV10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/VTV10_logo_2026.png",VTV10 (HD 4Mbps)
+udp://@225.1.4.108:30120
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #-------------------HTV-------------------#

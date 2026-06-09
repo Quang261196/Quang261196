@@ -24,7 +24,7 @@ udp://@225.1.4.7:30120
 udp://@225.1.4.8:30120
 #EXTINF:0 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/VTV10_logo_2026.png",VTV10 (HD 4Mbps)
 udp://@225.1.4.6:30120
-#EXTINF:0 tvg-id="vtv10hd" group-title="VTV10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/VTV10_logo_2026.png",VTV10 (HD 4Mbps)
+#EXTINF:0 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/VTV10_logo_2026.png",VTV10 (HD 4Mbps)
 udp://@225.1.4.108:30120
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8

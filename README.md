@@ -1,4 +1,4 @@
-ưu#EXTM3U url-tvg="https://vnepg.site/epg.xml"
+#EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #-------------------VTV-------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 4Mbps)
 udp://@225.1.4.1:30120

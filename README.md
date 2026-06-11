@@ -28,6 +28,13 @@ udp://@225.1.4.6:30120
 udp://@225.1.4.108:30120
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+#---------VTV FPTOTT--------#
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV FPT OTT" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV FPT OTT" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 
+https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV FPTOTT" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 
+https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #-------------------HTV-------------------#
 #EXTINF:0 tvg-id="htv1" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/HTV1.png",HTV1
 udp://@225.1.4.55:30120

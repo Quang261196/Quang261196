@@ -28,7 +28,7 @@ udp://@225.1.4.6:30120
 udp://@225.1.4.108:30120
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-#---------VTV FPTOTT--------#
+#---------VTV FPT OTT--------#
 #EXTINF:0 tvg-id="vtv1" group-title="VTV FPT OTT" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:0 tvg-id="vtv2" group-title="VTV FPT OTT" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 
@@ -41,7 +41,7 @@ https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=100
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV FPT OTT" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV  FPT OTT" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV FPT OTT" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV FPT OTT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/1280px-VTV6_logo_2026_final.svg.png",VTV6
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
